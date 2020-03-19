@@ -16,6 +16,8 @@ public class Principal {
 		ArrayList<DadoMercado> listaDds = new ArrayList<>();
 		ArrayList<Resultado> listaResults = new ArrayList<>();
 		
+//		Para que o funcione, é necessário que altere os paths dos files.
+//		Os documentos "Dados de Mercado" e "Operações" estão em "/src/com/qintess/resources/".
 		String pathOp = "";
 		String pathDd = "";
 		String pathSaida = "";
